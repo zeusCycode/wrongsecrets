@@ -1,0 +1,3 @@
+#Adding exposed secret to the repo to demonstrate PR scanning capabilties 
+
+var exposedSecret = "b4eh9TLXAs"
